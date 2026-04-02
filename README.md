@@ -1,7 +1,7 @@
 # Service-Desk-Ticketing-log
 <h3>Log showcasing my process and resolution of common ticketing issues:</h3>
 
-<div align="center"> Ask client for full name, department and/or job title, contact info, device name if possible, what hardware or software issue they're facing and submit said info as well as a summarized description within the ticketing system. Assign the ticket to the proper IT technician based on the urgency of the issue, impact on business/customer relations/SLAs and follow up with both the technician assigned and the client, letting the client know you value their time and that it is very important you help them solve their issue in a timely and efficient manner.</div>
+<div align="center"> Ask client for full name, department and/or job title, contact info, device name if possible, what hardware or software issue they're facing and submit said info as well as a summarized description within the ticketing system. Assign the ticket to the proper IT technician (if not myself) based on the urgency of the issue, impact on business/customer relations/SLAs and follow up with both the technician assigned and the client, letting the client know you value their time and that it is very important you help them solve their issue in a timely and efficient manner.</div>
  
 
    <p align="center">
